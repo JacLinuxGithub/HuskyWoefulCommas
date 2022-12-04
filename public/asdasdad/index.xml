@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asdasdads on My New Hugo Site</title>
+    <link>/asdasdad/</link>
+    <description>Recent content in Asdasdads on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 00:05:09 +0000</lastBuildDate>
+    
+	<atom:link href="/asdasdad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+    
+    <item>
+      <title>asdasdasdasd</title>
+      <link>/posts/qweqwe/</link>
+      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      
+      <guid>/posts/qweqwe/</guid>
+      <description>&lt;p&gt;asdasdad&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>etst</title>
+      <link>/posts/test/</link>
+      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      
+      <guid>/posts/test/</guid>
+      <description>&lt;p&gt;oh hi&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>&lt;p&gt;oh hi&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
